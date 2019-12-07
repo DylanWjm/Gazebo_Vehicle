@@ -4,7 +4,7 @@
 
 2.打开solidworks，在菜单栏的“齿轮”的下拉菜单下，选择“插件”，出现如图界面，你可以看到一个SW2URDF项目，勾选。
 
-![1](D:\360MoveData\Users\李志伟\Desktop\新建文件夹\1.png)
+![1](/home/lizhiwei/Downloads/ackmansteer_vehicle/sources/1.png)
 
 3.开始绘制你的零件图，完成装配关系。
 
@@ -16,20 +16,19 @@
 
 7.在如图的位置输出urdf的link的名字和选择合适的坐标系，并且选择相应的结构。
 
-![2](D:\360MoveData\Users\李志伟\Desktop\新建文件夹\2.PNG)
+![2](/home/lizhiwei/Downloads/ackmansteer_vehicle/sources/2.PNG)
 
 8.选择好结构后的效果如图
 
-![3](D:\360MoveData\Users\李志伟\Desktop\新建文件夹\3.PNG)
+![3](/home/lizhiwei/Downloads/ackmansteer_vehicle/sources/3.PNG)
 
 9.设置好结构后，选择“Preview and Export”，出现joint的校核，校核所有joint的关节是否正确。
 
-![4](D:\360MoveData\Users\李志伟\Desktop\新建文件夹\4.PNG)
+![4](/home/lizhiwei/Downloads/ackmansteer_vehicle/sources/4.PNG)
 
 10.选择“下一步”，我们校核所有的link，最后输出，注意保存文件是不要出现中文，一般为小写字母或小写字母+数字。
 
-![5](D:\360MoveData\Users\李志伟\Desktop\新建文件夹\5.PNG)
+![5](/home/lizhiwei/Downloads/ackmansteer_vehicle/sources/5.PNG)
 
-11.至此一个urdf的模型导出完成，里面的文件夹如图所示。
+11.至此一个urdf的模型导出完成。
 
-![6](H:\6.PNG)
