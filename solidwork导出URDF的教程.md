@@ -16,19 +16,19 @@
 
 7.在如图的位置输出urdf的link的名字和选择合适的坐标系，并且选择相应的结构。
 
-![2](/home/lizhiwei/Downloads/ackmansteer_vehicle/sources/2.PNG)
+![2](sources/2.PNG)
 
 8.选择好结构后的效果如图
 
-![3](/home/lizhiwei/Downloads/ackmansteer_vehicle/sources/3.PNG)
+![3](sources/3.PNG)
 
 9.设置好结构后，选择“Preview and Export”，出现joint的校核，校核所有joint的关节是否正确。
 
-![4](/home/lizhiwei/Downloads/ackmansteer_vehicle/sources/4.PNG)
+![4](sources/4.PNG)
 
 10.选择“下一步”，我们校核所有的link，最后输出，注意保存文件是不要出现中文，一般为小写字母或小写字母+数字。
 
-![5](/home/lizhiwei/Downloads/ackmansteer_vehicle/sources/5.PNG)
+![5](sources/5.PNG)
 
 11.至此一个urdf的模型导出完成。
 
