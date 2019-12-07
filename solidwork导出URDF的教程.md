@@ -4,7 +4,7 @@
 
 2.打开solidworks，在菜单栏的“齿轮”的下拉菜单下，选择“插件”，出现如图界面，你可以看到一个SW2URDF项目，勾选。
 
-![1](/home/lizhiwei/Downloads/ackmansteer_vehicle/sources/1.png)
+![1](sources/1.png)
 
 3.开始绘制你的零件图，完成装配关系。
 
